@@ -3,6 +3,7 @@
 # References
 <a id="1">[1]</a> 
 Gu, Y., Otake, Y., Uemura, K., Soufi, M., Takao, M., Sugano, N., & Sato, Y. (2022, September). BMD-GAN: Bone mineral density estimation using X-ray image decomposition into projections of bone-segmented quantitative computed tomography using hierarchical learning. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 644-654). Cham: Springer Nature Switzerland.
+
 <a id="2">[2]</a> 
 Gu, Y., Otake, Y., Uemura, K., Soufi, M., Takao, M., Talbot, H., Okada, S., Sugano, N., & Sato, Y. (2023). Bone mineral density estimation from a plain X-ray image by learning decomposition into projections of bone-segmented computed tomography. Medical Image Analysis (in press).
 
